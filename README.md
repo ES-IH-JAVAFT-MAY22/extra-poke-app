@@ -64,4 +64,4 @@ The home page welcomes you to our page!. You only can access to this page is you
 <!-- CONTACT -->
 ## 📥 Contact
 
-If you have issues, please don't hesitate to contact us in Slack.
+If you have issues, please don't hesitate to contact me in Slack.
