@@ -59,7 +59,7 @@ To access to the secured urls you need to login using your credentials (previusl
 
 ### Home (http://localhost:4200/)
 The home page welcomes you to our page!. You only can access to this page is you are logged. If not you will be redirected to the login page. 
-![](https://github.com/ES-IH-JAVAFT-MAY22/extra-poke-app/blob/main/screenshots/login.png?raw=true)
+![](https://github.com/ES-IH-JAVAFT-MAY22/extra-poke-app/blob/main/screenshots/home.png?raw=true)
 
 <!-- CONTACT -->
 ## 📥 Contact
