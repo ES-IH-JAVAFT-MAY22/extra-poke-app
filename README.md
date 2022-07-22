@@ -31,13 +31,13 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repository, getting the link on the Code button.
 2. Open the project from the location you cloned it. 
-3. Change the password in [application.properties]() so it can be connected to your local database.
+3. Change the password in [application.properties](https://github.com/ES-IH-JAVAFT-MAY22/extra-poke-app/blob/main/poke-app-backend/src/main/resources/application.properties) so it can be connected to your local database.
 4. Run the following commands to run the Spring Boot backend. 
   ```
   cd poke-app-backend
   mvn spring-boot:run
   ```
-5. Run the commands to install and run the Angular frontend
+5. Run the following commands to install and run the Angular frontend
   ```
   cd poke-app-frontend
   npm install
